@@ -9,3 +9,9 @@ Pride flags colour palettes
 
 
 ![](images/pansexualflag.png)
+
+
+![](images/genderfluid.png)
+
+
+![](images/transg.png)
