@@ -1,5 +1,5 @@
 
-# colorPalettes
+# pridepalettes
 
 
 Pride flags colour palettes 
