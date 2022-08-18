@@ -9,6 +9,6 @@ The corresponding blog post is on both the [Turtletopia site](https://turtletopi
 
 The palettes available (as of Aug 18th 2022) are in the image below:
 
-![](palettes.png).
+![](palettes.png)
 
 For more details on installation and usage, see the [gglgbtq repo](https://github.com/turtletopia/gglgbtq).
